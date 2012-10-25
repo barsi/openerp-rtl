@@ -1,0 +1,16 @@
+OpenERP Arabic Locale Support
+==================================
+
+This is an Openerp list of pathes to fix issues occured when dealing with Arabic and RTL languages (Arabic, Hebrew, Ordo, Farsi, etc). 
+
+Road Map:
+---------
+
+* Adding Support for unicode Bidirection Algorithm for reports on Linux and windows.
+* Adding RTL Style to the web client.
+* Develop an easy-to-use tool to change report's font system ( making the change to the Default PDF fonts to fonts that support arabic gylph very easly and can be done without coding experince).
+* Localizing Behavioure and Views of the Most Used Openerp Modules:
+	-- Accounting and Finance Modules (Journales, Chart of Accounts, etc).
+	-- HR Modules (Payslips, Contracts, etc).
+	-- Sales (Full Middile east Regions [States, Cities]).
+	-- etc.
