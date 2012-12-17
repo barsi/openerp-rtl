@@ -1,5 +1,5 @@
-OpenERP Arabic Locale Support
-==================================
+OpenERP Arabic Report Support:
+==============================
 
         This is an Openerp patch to fix issues occured when dealing with Arabic and RTL languages (Arabic, Hebrew, Ordo, Farsi, etc). 
 
