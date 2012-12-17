@@ -27,7 +27,8 @@ OpenERP Arabic Locale Support
 
         	- at the end of the file, add the following line:
         	fonts_search_path = <INSTALL_DIR>\Openerp Server 6.1\Server\server\fonts
-        	<blockqoute>Dont forget to replace <INSTALL_DIR> with the absolute path of OpenERP server installation (e.g. C:\Program Files).</blockqoute>
+        	
+        	NOTE: Dont forget to replace <INSTALL_DIR> with the absolute path of OpenERP server installation (e.g. C:\Program Files).
 
         	- go to DjaVu Fonts Site http://dejavu-fonts.org/wiki/Download and download a file called dejavu-fonts-ttf-2.33.tar.bz2 here is another mirror for it:
         	http://ie.archive.ubuntu.com/ftp.frugalware.org/pub/frugalware/frugalware-current/source/x11/dejavu-ttf/dejavu-fonts-ttf-2.33.tar.bz2
