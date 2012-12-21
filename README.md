@@ -1,17 +1,15 @@
 OpenERP Arabic Report Support:
 ==============================
 
-        This is an Openerp patch to fix issues occured when dealing with Arabic and RTL languages (Arabic, Hebrew, Ordo, Farsi, etc). 
+This is an Openerp patch to fix issues occured when dealing with Arabic and other RTL languages (Arabic, Hebrew, Ordo, Farsi, etc). 
 
 
 ## <u>Installation on Windows</u>: 
    
  1.  copy file **arabic_reshaper.py** into:
         `<INSTALL_DIR>\Openerp Server 6.1\Server\server`,  where `<INSTALL_DIR>` is the location where you installed Openerp Server (e.g. C:\Program Files).
-
 2. copy folder **bidi** into the same Location you put **arabic_reshaper.py** to it:
         `<INSTALL_DIR>\Openerp Server 6.1\Server\server`
-
 3. copy file **textobject.py** into:
         `<INSTALL_DIR>\Openerp Server 6.1\Server\server\reportlab\pdfgen`, you may want to backup the old **textobject.py** before replace it with this version.
 
