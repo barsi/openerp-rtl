@@ -49,7 +49,6 @@ _logger = logging.getLogger(__name__)
 _LOCALE2WIN32 = {
     'af_ZA': 'Afrikaans_South Africa',
     'sq_AL': 'Albanian_Albania',
-    #'ar_SA': 'Arabic_Saudi Arabia',
     'ar_DZ': 'Arabic_Algeria',
     'ar_BH': 'Arabic_Bahrain',
     'ar_EG': 'Arabic_Egypt',
